@@ -1,0 +1,294 @@
+body{
+  background: none !important;
+  background-color: #282a36 !important;
+}
+
+.header-top {
+  border-bottom: 7px solid #f8f8f2 !important;
+}
+
+.header-top::after{
+  border-color: #f8f8f2  transparent  transparent transparent !important;
+}
+
+.header-top h3 {
+  color: #f8f8f2 !important;
+}
+
+.header-top p {
+  color: #f8f8f2 !important;
+}
+
+.selector-area ul li.active {
+  background-color: #ff79c6 !important;
+}
+
+.item-portfolio {
+  padding: 5px !important;
+}
+
+.containerLogin {
+  background-color: #282a36 !important;
+  border: 1px solid white !important;
+  box-shadow: none !important;
+}
+
+.containerLogin .esqueciSenha {
+  color: #f8f8f2 !important;
+}
+
+.containerGeral::before {
+  background-color: #282a36 !important;
+}
+
+.containerGeral {
+  background-color: #282a36 !important;
+}
+
+.versaoSistemaLogin {
+  color: #f8f8f2 !important;
+}
+
+.containerTopo {
+  background-color: #282a36 !important; 
+}
+
+.containerNavegacaoSistemas .btnNavegaSistemas{
+  background-color: #282a36 !important; 
+}
+
+.containerNavegacaoSistemas i{
+  color: #f8f8f2 !important;
+}
+
+.containerNavegacaoSistemas .dropdown-menu {
+  background: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+
+.containerNavegacaoSistemas .dropdown-menu li p {
+  color: #f8f8f2 !important;
+}
+
+.secaoUsuario .dropdown-menu {
+  background: #44475a !important;
+  color: #f8f8f2 !important;
+}
+
+.secaoUsuario .dropdown-menu a {
+  color: #f8f8f2 !important;
+}
+
+.secaoUsuario .dropdown-menu a:hover {
+  color: #ff79c6 !important;
+}
+
+/** Menu Lateral **/
+
+.containerMenuPrincipal .menuPrincipal .iconeMenu .containerIconMenu{
+  background: #6272A4 !important;
+}
+
+.containerMenuPrincipal .menuPrincipal .subMenu {
+  background: #424450 !important;
+}
+
+.containerMenuPrincipal .menuPrincipal .iconeMenu .containerIconMenu i{
+  text-shadow: none !important;
+}
+
+.containerMenuPrincipal{
+  background: #424450 !important;
+}
+
+.containerMenuPrincipal .menuPrincipal .iconeMenu strong {
+  color: #f8f8f2 !important;
+}
+
+.containerMenuPrincipal .toggleMenu {
+  color: #f8f8f2 !important;
+}
+
+.containerMenuPrincipal .menuPrincipal .subMenu .grupoItensMenu ul li a {
+  color: #f8f8f2 !important;
+}
+
+.containerMenuPrincipal .menuPrincipal .subMenu ul li a:hover {
+  background: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+
+.containerBotoes {
+  background: #6272a4 !important;
+}
+
+/** Fim menu principal **/
+
+.topoSecao {
+  background: #44475a !important;
+}
+
+.topoSecao .breadcrumb>li {
+  color: #f8f8f2 !important;
+}
+
+.topoSecao h2 {
+  color: #f8f8f2 !important;
+}
+
+.interacaoSecao li:first-child {
+  background: #282a36 !important;
+}
+
+.interacaoSecao li a {
+  color: #ff79c6 !important;
+}
+
+.topoSecao .breadcrumb>li .setaRight {
+  border-left-color: #f8f8f2 !important;
+}
+
+.topoSecao .iconeSecao i {
+  color: #f8f8f2 !important;
+  text-shadow: none !important;
+}
+
+.topoSecao .iconeSecao {
+  background: none !important;
+}
+
+.containerBuscaBtnNovo {
+  background: none !important;
+}
+
+/** Tabela de resultado de pesquisa **/
+
+table tbody tr {
+  background: #424450 !important;
+
+}
+
+table thead tr {
+  border: 1px solid #6272a4;
+  background: #6272a4 !important;
+}
+
+table thead th {
+  border-right: 1px solid #6272a4 !important;
+}
+
+table thead th a{
+  color: #f8f8f2 !important;
+}
+
+table thead th {
+  color: #f8f8f2 !important;
+}
+
+table td {
+  color: #f8f8f2 !important;
+}
+
+.botoesGrid a p {
+  color: #f8f8f2 !important;
+}
+
+.botoesGrid .informacoesMais i, .botoesGrid .informacoesMenos i {
+  color: #f8f8f2 !important;
+}
+
+.botoesGrid .editar i {
+  color: #f8f8f2 !important;
+}
+
+.paginacaoGrid li {
+  background: none !important;
+}
+
+.paginacaoGrid li a {
+  border: none !important;
+  border-bottom: 1 px solid #bd93f9 !important;
+}
+
+/** Fim tabela resultado pesquisa **/
+
+
+/** ficha usuario **/
+
+.siscaf .containerCabecalho .infoNomePessoa {
+  color: #f8f8f2 !important;
+}
+
+table tbody tr i {
+  color: #f8f8f2 !important;
+}
+
+table tbody tr a {
+  color: #bd93f9 !important;
+}
+
+.conteudoSecao>form {
+  color: #f8f8f2 !important;
+  border: 1px solid white;
+  background: none !important;
+}
+
+.conteudoSecao>form h3.title{
+  color: #f8f8f2 !important;
+}
+
+.conteudoSecao>form .quantidaResultados{
+  color: #f8f8f2 !important;
+}
+
+.conteudoSecao>form .quantidaResultados strong{
+  color: #f8f8f2 !important;
+}
+
+.dadosPessoa .containerInfoRegristo {
+  color: #f8f8f2 !important;
+  background: #424450 !important;
+}
+
+.dadosPessoa .containerInfoRegristo .registroSimples {
+  background: #6272a4 !important;
+}
+
+.dadosPessoa .containerInfoRegristo .infoSituacaoDetalhe {
+  color: #f8f8f2 !important;
+  background: #6272a4 !important;
+}
+
+.containerCabecalho .corPadrao .info {
+  color: #f8f8f2 !important;
+}
+
+.label {
+  color: #f8f8f2 !important;
+}
+
+.dadosPessoa .containerImage .foto, .dadosPessoa .containerImage .logomarca {
+  border: 1px solid #fff !important;
+  box-shadow: none !important;
+}
+
+.containerSinalizacoes .atualizarSinalizadores {
+  padding: 4px 4px 0px 4px !important;
+  border: none !important;
+  color: #f8f8f2 !important;
+  background: #6272a4 !important;
+}
+
+.containerSinalizacoes>ul {
+  padding: 6px 4px 6px 0px !important;
+  border-radius: 0 !important;
+  border: none !important;
+  color: #f8f8f2 !important;
+  background: #6272a4 !important;
+}
+
+.sinalizadorDesabilitado .bloquearInativo {
+  background: none !important;
+}
+
+/** fim ficha usuario **/

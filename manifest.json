@@ -1,0 +1,28 @@
+{
+  "short_name": "Medium Dark",
+  "name": "Medium Dark Mode",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "icons": {
+    "16": "icons/logo-medium16.png",
+    "48": "icons/logo-medium16.png",
+    "128": "icons/logo-medium128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": ["https://https://cro-mg.implanta.net.br/*"],
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Medium Dark"
+  },
+  "web_accessible_resources": [{ 
+    "resources": ["dark_mode.css"],
+    "matches": ["<all_urls>"]
+  }],
+  "version": "1.0"
+}
